@@ -33,3 +33,7 @@ Here are some ideas to get you started:
   <img alt="Vim" src="https://img.shields.io/badge/-Vim-4fc08d?style=flat-square&logo=vim&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
 </p>
+
+### Git 汇总 ✨
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=lcomplete&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=tokyonight&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcomplete&hide_title=true&hide_border=true&layout=compact&theme=tokyonight&locale=cn" />
