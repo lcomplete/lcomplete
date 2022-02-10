@@ -3,7 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lcomplete&column=7" alt="lcomplete" /></a> </p>
 
-- 🌱 I’m currently learning **RxJava、Spark**
+- 📧 Newsletter <https://www.getrevue.co/profile/lcomplete>
+- 📘 Read it later Bookmarks [To Read](https://raindrop.io/lcomplete/to-read-23073692)
 
 <h3 align="left">💻 Languages and Tools</h3>
 <p>
