@@ -3,8 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lcomplete&column=7" alt="lcomplete" /></a> </p>
 
-- 📧 Newsletter <https://www.getrevue.co/profile/lcomplete>
-- 📘 Read it later Bookmarks [To Read](https://raindrop.io/lcomplete/to-read-23073692)
+- 📧 我的 Newsletter，每周一篇：[野生架构师](https://www.getrevue.co/profile/lcomplete)
+- 📘 我的待阅读书签，可从中发现优质文章：[To Read / Raindrop.io](https://raindrop.io/lcomplete/to-read-23073692)
 
 <h3 align="left">💻 Languages and Tools</h3>
 <p>
