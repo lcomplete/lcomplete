@@ -4,8 +4,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lcomplete&column=7" alt="lcomplete" /></a> </p>
 
 - 📖 我的开源技术文章：[TechShare](https://github.com/lcomplete/TechShare)
-- 🐦 我的 Twitter，及时获取高质量分享：[野生架构师 🐒](https://twitter.com/lcomplete_wild)
-- 📧 我的 Newsletter，每周一篇：[野生架构师](https://www.getrevue.co/profile/lcomplete)
+- 🐦 我的 Twitter，及时获取高质量分享：[lcomplete](https://twitter.com/lcomplete_wild)
+- 📧 我的 Newsletter，每周一篇：[野生架构师](https://coolc.substack.com/)
 - 📘 我收藏的文章，可从中发现优质内容：[Favorites / Raindrop.io](https://raindrop.io/lcomplete/favorites-23073692)
 
 <h3 align="left">💻 Languages and Tools</h3>
