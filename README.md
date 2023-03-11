@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm lcomplete</h2>
 <h4 align="center">A Programmer/Full-Stack Engineer/Architect</h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lcomplete&column=7" alt="lcomplete" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=lcomplete&column=7" alt="lcomplete" /></p>
 
 - 📖 我的开源技术文章：[TechShare](https://github.com/lcomplete/TechShare)
 - 🐦 我的 Twitter，及时获取高质量分享：[lcomplete](https://twitter.com/lcomplete_wild)
@@ -18,7 +18,6 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual Studio-007ACC?style=flat-square&logo=Visual%20Studio&logoColor=white" />
   <img alt="Vim" src="https://img.shields.io/badge/-Vim-4fc08d?style=flat-square&logo=vim&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
 </p>
 
 ### ✨ GitHub Stats
