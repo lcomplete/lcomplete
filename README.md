@@ -5,7 +5,7 @@
 
 - 📖 我的开源技术文章：[TechShare](https://github.com/lcomplete/TechShare)
 - 🐦 我的 Twitter，及时获取高质量分享：[lcomplete](https://twitter.com/lcomplete_wild)
-- 📧 我的 Newsletter，每周一篇：[野生架构师](https://coolc.substack.com/)
+- 📧 我的 Newsletter：[野生架构师](https://coolc.substack.com/)
 - 📘 我收藏的文章，可从中发现优质内容：[Favorites / Raindrop.io](https://raindrop.io/lcomplete/favorites-23073692)
 
 <h3 align="left">💻 Languages and Tools</h3>
