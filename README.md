@@ -1,6 +1,4 @@
-<h2 align="center">👋 I'm lcomplete</h2>
-
-<h4 align="center">Developer | Architect | Open Source Creator</h4>
+### 👋 I'm lcomplete
 
 I am the creator of [Huntly](https://github.com/lcomplete/huntly).
 
