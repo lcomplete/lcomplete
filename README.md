@@ -1,4 +1,4 @@
-### 👋 I'm lcomplete
+# 👋 I'm lcomplete
 
 I am the creator of [Huntly](https://github.com/lcomplete/huntly).
 
